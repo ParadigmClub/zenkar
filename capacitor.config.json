@@ -1,0 +1,12 @@
+{
+  "appId": "com.zenkar.app",
+  "appName": "ZenKAR",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0,
+      "autoHide": true
+    }
+  }
+}
